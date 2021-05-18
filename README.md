@@ -30,6 +30,15 @@ $app->get('/', function () {
     );
 });
 
+$app->get('/users/{name}', function (Psr\Http\Message\ServerRequestInterface $request) {
+    return new React\Http\Message\Response(
+        200,
+        [],
+        "Hello " . $request->getAttribute('name') . "!\n"
+    );
+});
+
+$app->run();
 $loop->run();
 ```
 
