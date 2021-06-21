@@ -19,8 +19,7 @@ a new `app.php` file:
 
 require __DIR__ . '/../vendor/autoload.php';
 
-$loop = React\EventLoop\Factory::create();
-$app = new FrameworkX\App($loop);
+$app = new FrameworkX\App();
 
 $app->get('/', function () {
     return new React\Http\Message\Response(
@@ -39,7 +38,6 @@ $app->get('/users/{name}', function (Psr\Http\Message\ServerRequestInterface $re
 });
 
 $app->run();
-$loop->run();
 ```
 
 That's it already! The next step is now to serve this web application.
