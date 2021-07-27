@@ -74,14 +74,15 @@ See [website](https://framework-x.clue.engineering/) for full documentation.
 *This project is currently under active development,
 you're looking at a temporary placeholder repository.*
 
-Do you want early access to my unreleased projects?
-You can either be patient and wait for general availability or
-consider becoming a [sponsor on GitHub](https://github.com/sponsors/clue) for early access.
+The code is available in early access to my sponsors here: https://github.com/clue-access/framework-x
 
-Do you sponsor me on GitHub? Thank you for supporting sustainable open-source, you're awesome!
-The prototype is available here: [https://github.com/clue-access/framework-x](https://github.com/clue-access/framework-x).
+Do you sponsor me on GitHub? Thank you for supporting sustainable open-source, you're awesome! ❤️ Have fun with the code! 🎉
 
-Support open-source and join [**clue·access**](https://github.com/clue-access/clue-access) ❤️
+Seeing a 404 (Not Found)? Sounds like you're not in the early access group. Consider becoming a [sponsor on GitHub](https://github.com/sponsors/clue) for early access. Check out [clue·access](https://github.com/clue-access/clue-access) for more details.
+
+This way, more people get a chance to take a look at the code before the public release.
+
+Rock on 🤘
 
 ## License
 
